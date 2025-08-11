@@ -1,4 +1,3 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 let listaDeAmigos = []
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector (tag);
@@ -41,5 +40,7 @@ function sortearAmigo() {
     let indiceAleatorio = Math.floor(Math.random() * listaDeAmigos.length);
     let amigoSorteado = listaDeAmigos[indiceAleatorio];
     let resultado = document.getElementById('resultado');
-    resultado.innerHTML = `<li>${amigoSorteado}</li>`;
+    resultado.innerHTML = `<li>O amigo sorteado foi ${amigoSorteado}!</li>`;
+    document.getElementById('listaAmigos').style.display = 'none'; 
+    
 }
