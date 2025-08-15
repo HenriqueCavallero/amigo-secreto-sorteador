@@ -15,9 +15,16 @@ O **amigo-secreto-sorteador** permite cadastrar participantes e realizar sorteio
 - Evita repetição de pessoas
 
 ## 🤓 Como Usar
-1. Digite o nome dos participantes e clique em **adicionar**.
-2. Clique em **Sortear amigo**.
-3. Para resetar o sorteador, reinicie a página.
+### 1. Digite o nome dos participantes e clique em **adicionar**.
+![Passo 1: Digitar participantes e adicionar eles](assets/Passo1.png)
+
+### 2. Clique em "Sortear amigo"
+![Passo 3: Sortear amigo](assets/Passo2.png)
+
+### 3. Resultado do sorteio
+![Passo 4: Resultado do sorteio](assets/Passo3.png)
+
+### 4. Para resetar o sorteador, reinicie a página.
 
 ## 📦 Como Instalar 
 1. Baixe ou clone este repositório.
