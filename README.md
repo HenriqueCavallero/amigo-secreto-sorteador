@@ -18,10 +18,10 @@ O **amigo-secreto-sorteador** permite cadastrar participantes e realizar sorteio
 ### 1. Digite o nome dos participantes e clique em **adicionar**.
 ![Passo 1: Digitar participantes e adicionar eles](assets/Passo1.png)
 
-### 2. Clique em "Sortear amigo"
+### 2. Clique em "Sortear amigo".
 ![Passo 3: Sortear amigo](assets/Passo2.png)
 
-### 3. Resultado do sorteio
+### 3. Resultado do sorteio.
 ![Passo 4: Resultado do sorteio](assets/Passo3.png)
 
 ### 4. Para resetar o sorteador, reinicie a página.
