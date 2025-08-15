@@ -1,10 +1,10 @@
-<h1 align="center"> jogo-do-amigo-secreto </h1>
+<h1 align="center"> amigo-secreto-sorteador </h1>
 
 ## 😄 Sobre 
 Este projeto é uma ferramenta simples e prática para sortear uma pessoa ou amigo no amigo secreto.
 
 ## 📓 Descrição do Projeto
-O **jogo-do-amigo-secreto** permite cadastrar participantes e realizar sorteios aleatórios — tudo de forma fácil e intuitiva. Ideal para grupos de amigos, família ou colegas de trabalho que querem organizar a brincadeira de um jeito eficiente e sem complicações.
+O **amigo-secreto-sorteador** permite cadastrar participantes e realizar sorteios aleatórios — tudo de forma fácil e intuitiva. Ideal para grupos de amigos, família ou colegas de trabalho que querem organizar a brincadeira de um jeito eficiente e sem complicações.
 
 ## ✨ Funcionalidades
 - Cadastro de participantes
@@ -12,8 +12,9 @@ O **jogo-do-amigo-secreto** permite cadastrar participantes e realizar sorteios 
 - Interface simples e intuitiva
 - Evita repetição de pessoas
 
-## 📦 Como Usar
+## 📦 Como Instalar e Usar
 1. Baixe ou clone este repositório.
+Comando para usar no terminal para clonar o repostório: git clone https://github.com/HenriqueCavallero/amigo-secreto-sorteador.git
 2. Abra o arquivo `index.html` no navegador.
 3. Digite o nome dos participantes e clique em **adicionar**.
 4. Clique em **Sortear amigo**.

@@ -4,7 +4,7 @@ function exibirTextoNaTela(tag, texto) {
     campo.innerHTML = texto;
 }
 function exibirTextosInciais() {
-    exibirTextoNaTela('h1', 'Bem vindo ao jogo do amigo secreto!');
+    exibirTextoNaTela('h1', 'Bem vindo(a) ao sorteador do amigo secreto!');
     exibirTextoNaTela('h2', 'Digite o nome dos amigos que participarão do amigo secreto:');
 }
 exibirTextosInciais();
